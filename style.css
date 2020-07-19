@@ -75,15 +75,26 @@
 #card1{
     border: none;
 }
+#card1:hover{
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.144);
+}
 #card2{
     border: none;
+}
+#card2:hover{
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.144);
 }
 #card3{
     border: none;
 }
+#card3:hover{
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.144);
+}
 #card4{
     border: none;
+}
+#card4:hover{
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.144);
 }
 
 
@@ -140,8 +151,10 @@
 }
 .card2{
     border: none;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.144);
     border-radius: 20px;
+}
+.card2:hover{
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.144);
 }
 
 
